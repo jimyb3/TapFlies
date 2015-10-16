@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_71 (Oracle Corporation)
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: assets/Fly.png
+SHA1-Digest: +0SSbycM1DxTidNzIPbbAHSOZTk=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: assets/HomeButtonImage.png
+SHA1-Digest: l8LiHV8oaD6nGuHABqxS7Dr0/fU=
+
+Name: assets/HighScoresButtonImage2.png
+SHA1-Digest: W+QYeqNCWrUXQeR+ME1xIigIMsc=
+
+Name: assets/MenuBackground.png
+SHA1-Digest: KxaaV3HViDII4PzLncbQ3J4kgCg=
+
+Name: resources.arsc
+SHA1-Digest: zQdVi6QvW+Fi75OPAZI4FMoZVxw=
+
+Name: assets/TapFliesLogo.png
+SHA1-Digest: cKUDLiblq4NQQd5JKzGm0dC2O54=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9/HJtjCV/HXqSXRKqef/Z5ptutY=
+
+Name: assets/WinnerBackground.png
+SHA1-Digest: LXpXtOtPQQsGXU2CfIKifi11XJY=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: assets/StartGameButtonImage2.png
+SHA1-Digest: +gZ7AxffARUiXswuA76IQ+iBQdk=
+
+Name: assets/WinnerSound.mp3
+SHA1-Digest: cGQhxuAYlneLzaFqRD8SbjjvAV8=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: res/drawable/ya.png
+SHA1-Digest: YOKlq/FHClnvzY7+0qL4ljc41lQ=
+
+Name: assets/DeadFly.png
+SHA1-Digest: mkX4I42JZ+VPlt9dWzkUoN1JRmE=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: assets/PlayAgainButtonImage.png
+SHA1-Digest: yQoESV2Xra1iFfxfyN9xYOICvxM=
+
+Name: assets/BackgroundMusic.mp3
+SHA1-Digest: hZjQWZkrvSGl51+RJaf2j607HyU=
+
+Name: assets/BackButtonImage.png
+SHA1-Digest: Kz7grci5d7jRWgQL27bSCPKuoiQ=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: classes.dex
+SHA1-Digest: 9nba+ANdGVUdBBvLanNoQ3i2P70=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: assets/GameBackground.png
+SHA1-Digest: 9o+hMwE1+lssK3ClkqXPhYGCmrI=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
